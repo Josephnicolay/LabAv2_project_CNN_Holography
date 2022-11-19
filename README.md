@@ -19,7 +19,7 @@ La holografía de Fresnel simulada computacionalmente es una técnica moderna ap
   recuperar está pérdida de información, algoritmos robustos como demodulacion, desenvolvimiento y calibracion de fase suelen ser utilizados.
   
 En la última década los modelos de Deep learning han exhibido un amplio campo de apicación, caso particular, en el procesamiento de imágenes. Este trabajo
-  propone evaluar cuantitativa y cualitativamente el desempeño de un modelo de Deep Learning basado en Redes Neuronales Convolucionales (CNN) como alternativa  para la recontrucción de hologramas. El lenguaje de programación es 'Python 3.8.10'.
+  propone evaluar cuantitativa y cualitativamente el desempeño de un modelo de Deep Learning basado en Redes Neuronales Convolucionales (CNN) como alternativa  para la recontrucción de hologramas. El lenguaje de programación es ´Python 3.8.10´.
 
   
    
